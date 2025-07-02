@@ -1,0 +1,19 @@
+@use "variables" as *;
+
+.logo {
+  width: 300px;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
