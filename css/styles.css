@@ -80,7 +80,7 @@ main {
   animation: girar 5s linear infinite;
 }
 
-.Centrarestetexto {
+.centrarestetexto {
   text-align: center;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
@@ -118,7 +118,7 @@ label {
 
 .contenedor-link {
   text-align: center;
-  /* Centrar el contenido */
+  
   margin-top: 100px;
 }
 
@@ -186,7 +186,7 @@ form {
   margin-top: 10px;
 }
 
-/*-----------------------------estilos en el rpg-----------*/
+
 .tamano {
   width: 90%;
   max-width: 1200px;
@@ -220,4 +220,4 @@ main {
   }
 }
 
-/*# sourceMappingURL=styles.css.map */
+

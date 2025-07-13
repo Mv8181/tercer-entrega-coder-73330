@@ -11,9 +11,6 @@
      transform: rotate(360deg)
     }
 }
- 
-
-
 
 .logo {
     width: 300px;
@@ -23,7 +20,7 @@
     animation: girar 5s linear infinite;
 }
 
-.Centrarestetexto {
+.centrarestetexto {
     text-align: center;
     font-family: $fuente-impact;
 
@@ -64,17 +61,9 @@ label {
 
 .contenedor-link {
     text-align: center;
-    /* Centrar el contenido */
+    
     margin-top: 100px;
 }
-
-
-    
-
-
-
-
-
 
 .formulario{
     max-width: 500px;
@@ -151,7 +140,7 @@ align-items: center;
 
 }
 
-/*-----------------------------estilos en el rpg-----------*/
+
 .tamano{
    width: 90%;
    max-width: 1200px;
@@ -170,6 +159,9 @@ main {
   margin: 0 auto;
   padding: 1rem;
 }
+
+
+
 
 @media (max-width: 768px) {
   .navbar-nav {
